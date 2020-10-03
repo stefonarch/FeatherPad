@@ -1954,7 +1954,7 @@ modificare la data o rimuovere spazi  vuoti.</translation>
         <location filename="../../prefDialog.ui" line="1239"/>
         <source>By default, when files are copied, they will
 be opened if they are pasted into FeatherPad.</source>
-        <translation type="unfinished"></translation>
+        <translation>test some more.</translation>
     </message>
     <message>
         <location filename="../../prefDialog.ui" line="1243"/>
