@@ -1388,7 +1388,7 @@ un pulsante di menu sulla barra degli strumenti.</translation>
         <location filename="../../prefDialog.ui" line="225"/>
         <source>By default, each search entry
 has a separate search history.</source>
-        <translation type="unfinished"></translation>
+        <translation>test stean.</translation>
     </message>
     <message>
         <location filename="../../prefDialog.ui" line="229"/>
