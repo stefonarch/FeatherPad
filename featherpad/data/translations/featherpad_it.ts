@@ -1393,7 +1393,7 @@ has a separate search history.</source>
     <message>
         <location filename="../../prefDialog.ui" line="229"/>
         <source>Use a shared search history</source>
-        <translation type="unfinished"></translation>
+        <translation>Usa una cronologia condivisa per la ricerca</translation>
     </message>
     <message>
         <location filename="../../prefDialog.ui" line="236"/>
@@ -1532,7 +1532,7 @@ e due trattini (--) sono sostituiti con un tratto lungo
         <location filename="../../prefDialog.ui" line="509"/>
         <source>Highlight case-sensitive and whole matches
 of the selected text.</source>
-        <translation type="unfinished"></translation>
+        <translation>Evidenzia.</translation>
     </message>
     <message>
         <location filename="../../prefDialog.ui" line="513"/>
